@@ -1,1 +1,1 @@
-# testRepository
+# JavaRepository
